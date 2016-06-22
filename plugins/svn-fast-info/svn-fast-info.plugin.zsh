@@ -24,7 +24,7 @@ function svn_prompt_info() {
       $ZSH_THEME_SVN_PROMPT_SUFFIX \
       $ZSH_PROMPT_BASE_COLOR
   else
-    printf '%s%s:%s%s%s%s%s%s%s%s' \
+    printf '%s%s r%s%s%s%s%s%s%s%s' \
       $ZSH_PROMPT_BASE_COLOR \
       $ZSH_THEME_SVN_PROMPT_PREFIX \
       \
