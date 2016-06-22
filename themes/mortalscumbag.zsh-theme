@@ -67,4 +67,4 @@ ZSH_THEME_GIT_PROMPT_SUFFIX=" $fg_bold[white]›%{$reset_color%}"
 
 ZSH_THEME_SVN_PROMPT_PREFIX=" $fg[white]‹ %{$fg_bold[yellow]%}"
 ZSH_THEME_SVN_PROMPT_SUFFIX=" $fg_bold[white]›%{$reset_color%}"
-ZSH_THEME_SVN_PROMPT_CLEAN=" "
+ZSH_THEME_SVN_PROMPT_CLEAN=""
